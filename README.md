@@ -1,5 +1,5 @@
-1. Użytkownik może zarejestrować się jako właściciel. 
-2. Użytkownik może zarejestrować się jako najmujący. 
+1. Użytkownik może zarejestrować się jako właściciel i zalogować się. 
+2. Użytkownik może zarejestrować się jako najmujący i zalogować się. 
 3. Własciciel nieruchomości udostępnia listę swoich nieruchomości. 
 4. Jeżeli najmujący jest zainteresowany, może umówić się z właścicielem na oglądanie 
     mieszkania. W tym celu użytkownik wybierze dogdny termin pokrywający się z 
@@ -14,12 +14,8 @@
 10. Własciciel, po fizycznym podpisaniu umowy odnotowuje w ten fakt. 
 11. Najmującemu udostępniany jest panel danej nieruchomości.
 12. Jeden użytkownik może wynajmować wiele nieruchomości. 
-13. Jeden użytkownik może udostępnia pod najem wiele nieruchomości. 
+13. Jeden użytkownik może udostępnia pod najem wiele nieruchomości.
 
-
-Task001: Rejestracja Własciciela.
-Task002: Dodawanie Nieruchomości. 
-Task003: Edycja Nieruchomości. 
-Task004: Usunięcie nieruchomości.
-    
---Nieruchomość nie może być usunięta jeżeli jest wynajmowana. 
+1. Moduł właściciela: 
+    Zarządzanie listą i opisami nieruchomości. 
+    Każda nieruchomość ma kalendarz dostępnych spotkań. 
